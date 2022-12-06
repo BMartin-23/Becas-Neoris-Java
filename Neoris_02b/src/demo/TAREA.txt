@@ -1,0 +1,11 @@
+
+1. El usuario ingresa un valor numérico, el programa debe mostrar el factorial 
+   del valor ingresado. 5! = 5*4*3*2. !0 = 1.
+   
+2. El usuario ingresa un valor numérico, el programa debe mostrar el n-ésimo
+   término de la sucesión de Fibonacci.
+   
+   1  2  3  4  5  6   7   8   9   10 ...
+   1  1  2  3  5  8  13  21  34   55 ...
+   
+   Ej. Ingresa: 6, Salida: 8.
